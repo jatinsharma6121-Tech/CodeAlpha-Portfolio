@@ -34,7 +34,7 @@ Portfolio/
 
 ## 📷 Screenshot
 
-> ![Portfolio Screenshot](images/screenshot.png.png)```
+> ![Portfolio Screenshot](screenshot.png)
 
 ## 📌 Future Improvements
 
